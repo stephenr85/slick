@@ -29,7 +29,7 @@
     'use strict';
     var Slick = window.Slick || {};
 
-    Slick = (function() {
+    Slick = $.Slick = (function() {
 
         var instanceUid = 0;
 
